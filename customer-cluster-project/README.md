@@ -87,9 +87,8 @@ customer-shopping-project/
 └── README.md
 
 
----
 
-# ✅ English Version 
+## ✅ English Version 
 
 # 🧠 Customer Shopping Preference Classification (Deep Learning)
 
