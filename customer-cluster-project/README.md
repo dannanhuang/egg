@@ -77,16 +77,6 @@
 - F1 Score
 - Error Rate
 
-## 📁 项目结构
-```text
-customer-shopping-project/
-├── data/
-│   └── online vs store shopping dataset.csv
-├── code/
-│   └── customer Cluster in deep learning.ipynb
-└── README.md
-
-
 
 ## ✅ English Version 
 
